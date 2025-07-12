@@ -26,7 +26,8 @@ It uses a checkbox toggle trick to show and hide the sidebar, showcasing how CSS
 
 ## 🎯 Preview
 
-![Sidebar Screenshot]()
+![Sidebar Demo](./preview.gif)
+
 
 
 
